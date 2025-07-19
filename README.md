@@ -2,7 +2,7 @@
 
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
-|**Radityatama Nugraha**|**312310644**|**TI.23.A6**|**Pemrograman Web 2**|
+|**Akbar Rizky Ramadhan**|**312310696**|**TI.23.A6**|**Pemrograman Web 2**|
 
 # Praktikum 1: PHP Framework (Codeigniter)
 ## Tujuan
